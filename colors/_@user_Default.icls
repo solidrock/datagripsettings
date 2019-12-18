@@ -1,0 +1,17 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-08-30T16:16:40</property>
+    <property name="ide">DataGrip</property>
+    <property name="ideVersion">2018.2.2.0.0</property>
+    <property name="modified">2019-12-18T11:38:41</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="ff56" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
